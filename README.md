@@ -30,7 +30,7 @@ The dataset is partitioned into training and testing sets. While we do not enfor
 ---
 
 ## 📂 Taxonomy & Labels
-GastUJB covers a comprehensive range of gastric pathology categories. It serves as the primary cohort for defining the study's diagnostic taxonomy. The labels are organized hierarchically to allow for 
+GastUJB covers a comprehensive range of gastric pathology categories. It serves as the primary cohort for defining the study's diagnostic taxonomy. The labels are organized hierarchically to allow for three coarse-level tasks, eleven fine-level, and five grade-level tasks.
 
 ![Hierarchical and conditional dependency structure of gastric pathology diagnosis.](assets/dataset_hierarchical.png)
 ---
