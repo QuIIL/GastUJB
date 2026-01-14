@@ -55,16 +55,23 @@ GastUJB/
 │     ├── mask
 │     └── ...
 │   ├── 2014_raw
-│     ├── slide_100
+│     ├── slide_1
 │       ├── data_1.dat
 │       ├── data_2.dat
 │       └── ...
 │     └── ...
+│   ...
 ├── 2023/
-│   ├── 2023
-│     ├── slide_100
+│   ├── 2023_process
+│     ├── coordinates
+│     ├── mask
 │     └── ...
-│   └── ...
+│   ├── 2023_raw
+│     ├── slide_1
+│       ├── data_1.dat
+│       ├── data_2.dat
+│       └── ...
+│     └── ...
 └── clinical_metadata.csv
 ```
 ## Contact
